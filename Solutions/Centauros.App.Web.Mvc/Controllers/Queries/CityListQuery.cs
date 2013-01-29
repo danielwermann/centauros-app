@@ -26,7 +26,7 @@ using Centauros.App.Domain.Contracts.Tasks;
         public IList<CityViewModel> List(int page, int size)
         {
             var query = Session.QueryOver<City>()
-                .OrderBy(x => x.Name).Asc
+                .OrderBy(x => x.Name).Asc;
                 //.Skip(page)
                 //.Take(size);
                        
@@ -39,7 +39,7 @@ using Centauros.App.Domain.Contracts.Tasks;
         {
             var query = Session.QueryOver<Neighborhood>()
                 .Where(x => x.City.Id == cityId)
-                .OrderBy(x => x.Name).Asc
+                .OrderBy(x => x.Name).Asc;
                 //.Skip(page)
                 //.Take(size);
 

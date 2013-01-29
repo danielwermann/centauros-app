@@ -11,7 +11,7 @@
         public IList<HealthCarePlanViewModel> List(int page, int size)
         {
             var query = Session.QueryOver<HealthCarePlan>()
-                .OrderBy(x => x.Name).Asc
+                .OrderBy(x => x.Name).Asc;
                 //.Skip(page)
                 //.Take(size);
 
