@@ -1,0 +1,48 @@
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\Centauros.App.Infrastructure.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\Centauros.App.Infrastructure.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\Castle.Core.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\Centauros.App.Domain.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\FluentNHibernate.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\Iesi.Collections.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\Inflector.Net.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\NHibernate.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\SharpArch.Domain.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\SharpArch.NHibernate.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\Newtonsoft.Json.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\SharpArch.Wcf.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\Centauros.App.Domain.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\Castle.Core.xml
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\FluentNHibernate.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\Iesi.Collections.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\SharpArch.Domain.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\SharpArch.NHibernate.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\SharpArch.Wcf.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Infrastructure\obj\Debug\Centauros.App.Infrastructure.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Infrastructure\obj\Debug\Centauros.App.Infrastructure.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\Centauros.App.Infrastructure.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\Centauros.App.Infrastructure.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\Castle.Core.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\Centauros.App.Domain.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\FluentNHibernate.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\Iesi.Collections.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\Inflector.Net.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\NHibernate.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\SharpArch.Domain.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\SharpArch.NHibernate.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\SharpArch.Wcf.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\Centauros.App.Domain.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\Castle.Core.xml
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\FluentNHibernate.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\Iesi.Collections.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\SharpArch.Domain.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\SharpArch.NHibernate.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Infrastructure\bin\Debug\SharpArch.Wcf.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Infrastructure\obj\Debug\Centauros.App.Infrastructure.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Infrastructure\obj\Debug\Centauros.App.Infrastructure.pdb

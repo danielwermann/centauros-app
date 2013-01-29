@@ -1,0 +1,43 @@
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\Centauros.App.Tasks.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\Centauros.App.Tasks.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\Centauros.App.Domain.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\Centauros.App.Infrastructure.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\SharpArch.Domain.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\SharpArch.NHibernate.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\FluentNHibernate.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\Inflector.Net.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\Newtonsoft.Json.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\NHibernate.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\SharpArch.Wcf.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\Iesi.Collections.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\Centauros.App.Domain.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\Centauros.App.Infrastructure.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\SharpArch.Domain.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\SharpArch.NHibernate.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\FluentNHibernate.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\SharpArch.Wcf.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\Iesi.Collections.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Tasks\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Tasks\obj\Debug\Centauros.App.Tasks.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Tasks\obj\Debug\Centauros.App.Tasks.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\Centauros.App.Tasks.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\Centauros.App.Tasks.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\Centauros.App.Domain.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\Centauros.App.Infrastructure.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\SharpArch.Domain.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\SharpArch.NHibernate.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\FluentNHibernate.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\NHibernate.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\SharpArch.Wcf.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\Iesi.Collections.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\Centauros.App.Domain.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\Centauros.App.Infrastructure.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\SharpArch.Domain.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\SharpArch.NHibernate.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\FluentNHibernate.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\SharpArch.Wcf.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Tasks\bin\Debug\Iesi.Collections.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Tasks\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Tasks\obj\Debug\Centauros.App.Tasks.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Tasks\obj\Debug\Centauros.App.Tasks.pdb

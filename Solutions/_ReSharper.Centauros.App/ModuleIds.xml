@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="39613BA0-1206-4A4B-A16A-C1F2A22D1267" ModuleId="Centauros.App.Web.Mvc" />
+  <Module PersistentId="9544D94B-9B6E-4B61-8A09-88382205BF86" ModuleId="Centauros.App.Infrastructure" />
+</Modules>

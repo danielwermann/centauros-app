@@ -1,0 +1,16 @@
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Domain\bin\Debug\Centauros.App.Domain.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Domain\bin\Debug\Centauros.App.Domain.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Domain\bin\Debug\SharpArch.Domain.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Domain\bin\Debug\SharpArch.Domain.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Domain\obj\Debug\Centauros.App.Domain.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Domain\obj\Debug\Centauros.App.Domain.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Domain\bin\Debug\Centauros.App.Domain.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Domain\bin\Debug\Centauros.App.Domain.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Domain\bin\Debug\SharpArch.Domain.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Domain\bin\Debug\SharpArch.Domain.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Domain\obj\Debug\Centauros.App.Domain.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Domain\obj\Debug\Centauros.App.Domain.pdb

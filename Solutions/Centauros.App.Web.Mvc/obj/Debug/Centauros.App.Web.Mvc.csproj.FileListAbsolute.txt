@@ -1,0 +1,97 @@
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Centauros.App.Web.Mvc.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Centauros.App.Web.Mvc.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Castle.Core.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Castle.Windsor.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Centauros.App.Domain.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Centauros.App.Infrastructure.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Centauros.App.Tasks.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\CommonServiceLocator.WindsorAdapter.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\FluentNHibernate.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Iesi.Collections.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\log4net.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Microsoft.Web.Mvc.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\NHibernate.ByteCode.Castle.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\NHibernate.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\SharpArch.Domain.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\SharpArch.NHibernate.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\SharpArch.Web.Mvc.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Inflector.Net.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Newtonsoft.Json.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\SharpArch.Wcf.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Centauros.App.Domain.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Centauros.App.Infrastructure.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Centauros.App.Tasks.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Castle.Core.xml
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Castle.Windsor.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Castle.Windsor.xml
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\CommonServiceLocator.WindsorAdapter.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\FluentNHibernate.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Iesi.Collections.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\log4net.xml
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\NHibernate.ByteCode.Castle.xml
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\SharpArch.Domain.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\SharpArch.NHibernate.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\SharpArch.Web.Mvc.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\SharpArch.Wcf.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\obj\Debug\Centauros.App.Web.Mvc.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\obj\Debug\Centauros.App.Web.Mvc.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\SquishIt.Framework.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Yahoo.Yui.Compressor.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\AjaxMin.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\EcmaScript.NET.dll
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\SquishIt.Framework.pdb
+C:\Users\daniel.wermann\Documents\Personal Documents\Rugby\Centauros-app\Solutions\Centauros.App.Web.Mvc\bin\AjaxMin.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Centauros.App.Web.Mvc.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Centauros.App.Web.Mvc.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Castle.Core.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Castle.Windsor.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Centauros.App.Domain.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Centauros.App.Infrastructure.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Centauros.App.Tasks.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\CommonServiceLocator.WindsorAdapter.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\FluentNHibernate.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Iesi.Collections.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\log4net.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Microsoft.Web.Mvc.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\NHibernate.ByteCode.Castle.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\NHibernate.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\SharpArch.Domain.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\SharpArch.NHibernate.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\SharpArch.Web.Mvc.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\SquishIt.Framework.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Newtonsoft.Json.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\SharpArch.Wcf.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Yahoo.Yui.Compressor.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\AjaxMin.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\EcmaScript.NET.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Centauros.App.Domain.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Centauros.App.Infrastructure.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Centauros.App.Tasks.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Castle.Core.xml
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Castle.Windsor.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Castle.Windsor.xml
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\CommonServiceLocator.WindsorAdapter.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\FluentNHibernate.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Iesi.Collections.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\log4net.xml
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\NHibernate.ByteCode.Castle.xml
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\SharpArch.Domain.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\SharpArch.NHibernate.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\SharpArch.Web.Mvc.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\SquishIt.Framework.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\SharpArch.Wcf.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\AjaxMin.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\obj\Debug\Centauros.App.Web.Mvc.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\obj\Debug\Centauros.App.Web.Mvc.pdb
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\MvcContrib.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\MvcContrib.FluentHtml.dll
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\MvcContrib.xml
+C:\Users\DANIEL\Documents\GitHub\centauros-app\Solutions\Centauros.App.Web.Mvc\bin\MvcContrib.FluentHtml.xml

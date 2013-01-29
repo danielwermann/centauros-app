@@ -1,0 +1,46 @@
+@using SquishIt.Framework
+@using SquishIt.Framework.Minifiers.JavaScript
+@using SquishIt.Framework.Minifiers.CSS
+<!DOCTYPE html>
+<head id="Head1" runat="server">
+    <title>Centauros App</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    @Html.Raw(Bundle.JavaScript()
+                    
+                    .Add("~/Content/js/ext/ext-all.js")
+                    .Add("~/Content/js/ext/locale/ext-lang-pt_BR.js")
+
+                    .Add("~/Content/js/app/vtypes.js")
+                    .Add("~/Content/js/app/view/base/InputTextMask.js")
+                    
+                    .Add("~/Content/js/app/view/viewport/Menu.js")
+                    .Add("~/Content/js/app/view/Viewport.js")
+                    
+                    .Add("~/Content/js/app/app.js")
+
+                    .Add("~/Content/js/app/view/base/Combo.js")
+
+                    .Add("~/Content/js/app/model/Athlete.js")
+                    
+                    .Add("~/Content/js/app/view/athlete/container/DetailsFieldset.js")
+                    .Add("~/Content/js/app/view/athlete/container/ContactFieldset.js")
+                    .Add("~/Content/js/app/view/athlete/container/AddressFieldset.js")
+                    .Add("~/Content/js/app/view/athlete/container/DocumentationFieldset.js")
+                    .Add("~/Content/js/app/view/athlete/container/HealthCarePlanFieldset.js")
+                    
+                    .Add("~/Content/js/app/view/athlete/Edit.js")
+                    .Add("~/Content/js/app/view/athlete/Panel.js")
+
+                    .Add("~/Content/js/app/controller/Athletes.js")
+                    
+                    //.ForceRelease()
+                    .Render("Content/js/combined/combined_.js"))    
+    @Html.Raw(Bundle.Css()
+                    .Add("~/Content/js/app/resources/css/app.css")                
+                    .Add("~/Content/js/ext/resources/css/ext-all.css")
+                    .ForceRelease()
+                    .Render("Content/js/combined/resources/combined_.css"))
+</head>
+<body>
+</body>
+</html>
