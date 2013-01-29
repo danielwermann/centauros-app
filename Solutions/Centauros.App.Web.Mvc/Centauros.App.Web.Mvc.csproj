@@ -180,7 +180,6 @@
     <Content Include="Content\js\app\view\athlete\Edit.js" />
     <Content Include="Content\js\app\view\Viewport.js" />
     <Content Include="Content\js\app\view\viewport\Menu.js" />
-    <Content Include="Content\js\ext\resources\combined\Readme.txt" />
     <Content Include="Content\js\app\view\base\Combo.js" />
     <Content Include="Content\js\combined\Readme.txt" />
     <Content Include="Content\js\ext\bootstrap.js" />
