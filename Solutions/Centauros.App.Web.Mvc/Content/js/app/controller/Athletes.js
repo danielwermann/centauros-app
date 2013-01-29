@@ -24,7 +24,6 @@
         var me = this;
         var cityId = combo.value;
         var neighborhoodCombo = me.getNeighborhoodCombo();
-        console.log(cityId);
         neighborhoodCombo.setDisabled(true);
         neighborhoodCombo.getStore().on('beforeload', function (store) {
             store.getProxy().extraParams = {

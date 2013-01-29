@@ -27,8 +27,8 @@ using Centauros.App.Domain.Contracts.Tasks;
         {
             var query = Session.QueryOver<City>()
                 .OrderBy(x => x.Name).Asc
-                .Skip(page)
-                .Take(size);
+                //.Skip(page)
+                //.Take(size);
                        
             var convertedItems = query.List<City>().Select(x => CityViewModel.Convert(x)).ToList();
 
@@ -40,8 +40,8 @@ using Centauros.App.Domain.Contracts.Tasks;
             var query = Session.QueryOver<Neighborhood>()
                 .Where(x => x.City.Id == cityId)
                 .OrderBy(x => x.Name).Asc
-                .Skip(page)
-                .Take(size);
+                //.Skip(page)
+                //.Take(size);
 
             var convertedItems = query.List<Neighborhood>().Select(x => NeighborhoodViewModel.Convert(x)).ToList();
 

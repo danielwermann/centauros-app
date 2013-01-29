@@ -12,8 +12,8 @@
         {
             var query = Session.QueryOver<HealthCarePlan>()
                 .OrderBy(x => x.Name).Asc
-                .Skip(page)
-                .Take(size);
+                //.Skip(page)
+                //.Take(size);
 
             var convertedItems = query.List<HealthCarePlan>().Select(x => HealthCarePlanViewModel.Convert(x)).ToList();
 
